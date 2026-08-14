@@ -1,2 +1,3 @@
-# Python-basics
-few python basic programs
+# Python
+All about python
+
